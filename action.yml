@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Podcast Generator 1297"
 authot: "Umair S"
 description: "Generate a feed for a podcast from a YAML file"
 runs:
