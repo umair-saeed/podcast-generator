@@ -1,6 +1,6 @@
 #!/bin/bash
 
-excho "++++++++++++++++"
+echo "++++++++++++++++"
 
 git config --global user.name "${GITHuB_ACTOR}"
 git config --global user.email "${INPUT_EMAIL}"
@@ -13,4 +13,4 @@ git commit -m "Update Feed"
 
 git push --set-upstream origin main
 
-excho "+-+-+-+-+-+-+-+-+"
+echo "+-+-+-+-+-+-+-+-+"
